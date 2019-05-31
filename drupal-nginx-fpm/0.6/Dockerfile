@@ -1,4 +1,4 @@
-FROM appsvcorg/nginx-fpm:php7.3.4
+FROM appsvcorg/nginx-fpm:php7.2.11
 LABEL maintainer ="Azure App Service Container Images <appsvc-images@microsoft.com>"
 # ========
 # ENV vars
